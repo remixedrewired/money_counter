@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before running scripts
+1) If you dont have Google Firebase Account, you should to create one.
+2) Create project, then go to its settings and click on "Add Firebase to your web app", the pop-up with your credentials will appear.
+3) Copy and paste your credentials to src/config/fbConfig.js.
+4) Do npm i and firebase login  and firebase init.
+5) After that you will be able to deploy your application to the firebase servers.
+
 ## Available Scripts
 
 In the project directory, you can run:

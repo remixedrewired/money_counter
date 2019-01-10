@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "money-count",
+    "dev": "money-count-8d1a7"
+  }
+}
